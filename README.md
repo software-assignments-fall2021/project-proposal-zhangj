@@ -1,4 +1,4 @@
-# Mapping for Vegan/Vegetarian Resturants
+# Mapping for Vegan/Vegetarian Restaurants
 ### By Jack Zhang
 
 ### Introduction
